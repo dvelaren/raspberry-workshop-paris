@@ -27,8 +27,8 @@ This class covers:
 
 #### Example 1.1 – Python common used commands
 In PIN 40 (GPIO21) there is a LED (L1) connected. Blink the LED ½ second ON and ½ second OFF.
-![alt text](https://raw.githubusercontent.com/tidusdavid/raspberry-workshop-paris/master/Resources/E11-Blink.png)
+![alt text](https://raw.githubusercontent.com/tidusdavid/raspberry-workshop-paris/master/Resources/E11_Blink.png)
 
 #### Example 1.2 – If statement with digital input
 In the PIN 36 (GPIO16) there is a switch (SW) and in the PIN 40 there is a LED (L1). Turn ON the LED if the switch is activated, in other case, turn off the LED.
-![alt text](https://raw.githubusercontent.com/tidusdavid/raspberry-workshop-paris/master/Resources/E12-LEDSW.png)
+![alt text](https://raw.githubusercontent.com/tidusdavid/raspberry-workshop-paris/master/Resources/E12_LEDSW.png)
