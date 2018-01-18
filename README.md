@@ -32,3 +32,7 @@ In PIN 40 (GPIO21) there is a LED (L1) connected. Blink the LED ½ second ON and
 #### Example 1.2 – If statement with digital input
 In the PIN 36 (GPIO16) there is a switch (SW) and in the PIN 40 there is a LED (L1). Turn ON the LED if the switch is activated, in other case, turn off the LED.
 ![alt text](https://raw.githubusercontent.com/tidusdavid/raspberry-workshop-paris/master/Resources/E12_LEDSW.png)
+
+#### Example 1.3 – DHT11 Sensor
+Monitor the current temperature and humidity of the environment every second using a DHT11 connected to GPIO21 (PIN 40).
+![alt text](https://raw.githubusercontent.com/tidusdavid/raspberry-workshop-paris/master/Resources/E13_DHT11.png)
