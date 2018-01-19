@@ -1,7 +1,8 @@
 # Raspberry Workshop for Université Paris 1 -  Sorbonne
-Raspberry workshop course for basic concepts required to start developing software in Arduino Platform. It consists in a total of 5 classes (click for PDF):
+Raspberry workshop course for basic concepts required to start developing software in Raspberrry Python Platform. It consists in a total of 2 classes (click for PDF):
 
 * [Class 1 - Raspberry Fundamentals](https://raw.githubusercontent.com/tidusdavid/raspberry-workshop-paris/master/Slides/Class%201%20-%20Raspberry%20Fundamentals.pdf)
+* [Class 2 - Relative Timing and FSM with Raspberry](https://raw.githubusercontent.com/tidusdavid/raspberry-workshop-paris/master/Slides/Class%202%20-%20Raspberry%20Relative%20Timing%20and%20FSM.pdf)
 
 ## Requirements
 * [Raspberry Pi 3 Model B V1.2](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
